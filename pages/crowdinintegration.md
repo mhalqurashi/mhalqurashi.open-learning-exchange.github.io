@@ -14,7 +14,7 @@ Our first process on Crowdin is to provide screenshots and context for the strin
 ![text recognition tool](/pages/uploads/images/crowdinmd4.png)
  7. Use it to highlight the text you want to tag. Once the text is highlighted, double check to make sure that the tag matches the text on the page and if not, click as shown below.
 ![highlight text to be tagged](/pages/uploads/images/crowdinmd5.png "High Light")
-*Highlight*
+*** *Highlight*
  8. This will open up an editor as shown below. Now you can edit in the editor to make sure that the tag matches the text on the page.
 ![tag editor](/pages/uploads/images/crowdinmd6.png)
  9. Once you have tagged on the strings, click save. Reopen the screenshot you just tagged (you will need this for reference). Open the main project page in a new tab. You will now need to check what your strings are linked to the right context in the translation interface. The following steps detail how to do this.
